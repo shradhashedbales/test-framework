@@ -1,0 +1,9 @@
+OrangeHm\BaseMain.class
+OrangeHm\Homepage.class
+OrangeHm\Utils.class
+OrangeHm\LoginPage.class
+OrangeHm\Employee.class
+OrangeHm\RetryLoginPage.class
+OrangeHm\NavigateToPage.class
+OrangeHm\DashboardPage.class
+OrangeHm\PimPage.class
