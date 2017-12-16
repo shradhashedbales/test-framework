@@ -29,7 +29,13 @@ public class Employee extends BaseMain{
 
 
 
-
+public void add_new_employee(String add_name)
+    {
+        if (firstNameField.getText().trim().contains(add_name))
+        {
+            firstNameField.sendKeys(add_name);
+        }
+    }
 }
 
 
